@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.33.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql-v0.32.0...instrumentation-mysql-v0.33.0) (2023-01-04)
+
+
+### Features
+
+* **mysql:** Metrics for mysql ([#1220](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1220)) ([8b8bfeb](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/8b8bfebdd6b4f43a8df540979874a6c01c999957))
+
 ## [0.32.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql-v0.31.2...instrumentation-mysql-v0.32.0) (2022-11-16)
 
 

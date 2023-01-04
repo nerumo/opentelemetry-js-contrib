@@ -52,6 +52,13 @@
   * dependencies
     * @opentelemetry/instrumentation-express bumped from ^0.31.1 to ^0.31.2
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-aws-sdk bumped from ^0.33.0 to ^0.34.0
+    * @opentelemetry/instrumentation-mysql bumped from ^0.32.0 to ^0.33.0
+
 ## [0.36.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.35.0...auto-instrumentations-node-v0.36.0) (2022-12-20)
 
 
